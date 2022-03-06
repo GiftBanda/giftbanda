@@ -23,11 +23,12 @@ I'm a huge sports and video game fan I love watching Formula 1 and Chelsea FC wh
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiftBanda)](https://github.com/anuraghazra/github-readme-stats)
 
-## Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GiftBanda)  
 
 ## Streak Stats
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GiftBanda)  
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftbanda&show_icons=true)
+
+## Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GiftBanda)  
