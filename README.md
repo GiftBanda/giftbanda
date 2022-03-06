@@ -14,14 +14,20 @@ I'm a huge sports and video game fan I love watching Formula 1 and Chelsea FC wh
 * 📪 Express
 * 💻 Html, Css, Javascript, MaterialUI
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GiftBanda)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiftBanda)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GiftBanda)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GiftBanda)  
-
+## Profile Views
 ![Profile views](https://gpvc.arturio.dev/GiftBanda)  
 
+## Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=GiftBanda)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiftBanda)](https://github.com/anuraghazra/github-readme-stats)
+
+## Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GiftBanda)  
+
+## Streak Stats
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GiftBanda)  
+
+## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftbanda&show_icons=true)
