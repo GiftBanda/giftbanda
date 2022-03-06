@@ -1,8 +1,7 @@
-### Hi there 👋
 
 ### Hi there 👋, Gift Banda
 #### MERN Stack Development and Design
-![MERN Stack Development and Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![MERN Stack Development and Design](https://github.com/GiftBanda/giftbanda/blob/main/FULLSTACK%20DEVELOPER%20(1).png)
 
 I'm a full-stack passionate software developer, solving different challenges in business using a data-driven approach and human-centered design.
 I'm a huge sports and video game fan I love watching Formula 1 and Chelsea FC when I'm not coding. You could also catch me playing Racing games and Fifa on a weekend.
