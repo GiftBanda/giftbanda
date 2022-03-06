@@ -14,4 +14,8 @@ I'm a huge sports and video game fan I love watching Formula 1 and Chelsea FC wh
 * 📪 Express
 * 💻 Html, Css, Javascript, MaterialUI
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GiftBanda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/giftbanda/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/GiftBanda42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11079753)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gift-banda.netlify.app/)  
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftbanda&show_icons=true)
