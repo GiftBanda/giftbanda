@@ -28,7 +28,7 @@ I'm a huge sports and video game fan I love watching Formula 1 and Chelsea FC wh
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GiftBanda)  
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftbanda&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftbanda&show_icons=true&theme=radical)
 
 ## Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GiftBanda)  
