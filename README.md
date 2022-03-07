@@ -8,7 +8,7 @@ I'm a full-stack passionate software developer, solving different challenges in 
 I'm a huge sports and video game fan I love watching Formula 1 and Chelsea FC when I'm not coding. You could also catch me playing Racing games and Fifa on a weekend.
 
 ## Skills and Experience 
-* ⚛︎ React
+* ⚛︎  React
 * ♻️ Node
 * 🗄 MongoDB
 * 📪 Express
