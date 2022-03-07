@@ -19,10 +19,10 @@ I'm a huge sports and video game fan I love watching Formula 1 and Chelsea FC wh
 
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=GiftBanda)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiftBanda)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 ## Streak Stats
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GiftBanda)  
