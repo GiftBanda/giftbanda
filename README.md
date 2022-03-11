@@ -16,9 +16,9 @@ I'm a huge sports and video game fan I love watching Formula 1 and Chelsea FC wh
 
 ## Profile Views
 ![Profile views](https://gpvc.arturio.dev/GiftBanda)  
-
+<!-- 
 ## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=GiftBanda)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GiftBanda)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiftBanda)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,5 +30,5 @@ I'm a huge sports and video game fan I love watching Formula 1 and Chelsea FC wh
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftbanda&show_icons=true&theme=radical)
 
-## Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GiftBanda)  
+<!-- ## Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GiftBanda)   -->
