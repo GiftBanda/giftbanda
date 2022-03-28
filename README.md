@@ -12,7 +12,7 @@ I'm a huge sports and video game fan I love watching Formula 1 and Chelsea FC wh
 * ♻️ Node
 * 🗄 MongoDB
 * 📪 Express
-* 💻 Html, Css, Javascript, MaterialUI
+* 💻 Html, Css, Javascript, MaterialUI, Theme-UI, Postman, 
 
 ## Profile Views
 ![Profile views](https://gpvc.arturio.dev/GiftBanda)  
