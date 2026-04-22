@@ -72,8 +72,8 @@ const gift = {
     <td width="50%">
       <h3 align="center">🚗 FleetCo Dashboard</h3>
       <div align="center">
-        <a href="https://github.com/GiftBanda/fleetco-dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiftBanda&repo=fleetco-dashboard&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" alt="FleetCo Dashboard"/>
+        <!-- <a href="https://github.com/GiftBanda/fleetco-dashboard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiftBanda&repo=fleetco-dashboard&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" alt="FleetCo Dashboard"/> -->
         </a>
         <p>Fleet management system dashboard built with <strong>Next.js + TypeScript + Tailwind</strong>. Dockerised for seamless deployment.</p>
         <a href="https://github.com/GiftBanda/fleetco-dashboard">
