@@ -85,9 +85,9 @@ const gift = {
       <h3 align="center">ZamERP</h3>
       <div align="center">
         <a href="https://github.com/GiftBanda/zamerp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiftBanda&repo=fleetco-backend&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" alt="FleetCo Backend"/>
+          <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiftBanda&repo=fleetco-backend&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" alt="FleetCo Backend"/> -->
         </a>
-        <p>Production-ready <strong>NextJS + TanStack + Vitest + NestJS + PostgreSQL + Drizzle ORM + Docker</strong> backend with JWT auth, role-based access</p>
+        <p>Production-ready <strong>NextJS + TanStack + Vitest + NestJS + PostgreSQL + Drizzle ORM + Docker</strong> with JWT auth, role-based access</p>
         <a href="https://github.com/GiftBanda/zamerp">
           <img src="https://img.shields.io/badge/View_Repo-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
