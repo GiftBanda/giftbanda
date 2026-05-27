@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gift%20Banda&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=5%2B+Years+Building+Production+Apps;Full-Stack+%7C+React+%7C+FastAPI+%7C+TypeScript;Data-Driven+%26+Human-Centered+Design;Open+to+Exciting+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=5%2B+Years+Building+Production+Apps;Full-Stack+%7C+React+%7C+NodeJS+%7C+TypeScript;Data-Driven+%26+Human-Centered+Design;Open+to+Exciting+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,10 +19,10 @@ const gift = {
   role: "Full-Stack Software Engineer",
   experience: "5+ years",
   approach: ["Data-Driven", "Human-Centered Design", "Clean Architecture"],
-  stack: ["React", "Next.js", "FastAPI", "Node.js", "TypeScript", "Docker"],
+  stack: ["React", "Next.js", "React Native", "Node.js", "TypeScript", "Docker", "Postgres", "AWS"],
   currentlyLearning: ["AI/ML Integration", "Cloud Architecture"],
   openTo: "Full-time roles, contract work & interesting collaborations",
-  funFact: "I debug better with F1 race commentary in the background 🏁"
+  funFact: "I debug better with lofi music in the background."
 };
 ```
 
